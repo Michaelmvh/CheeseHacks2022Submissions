@@ -13,7 +13,8 @@
 - https://github.com/goviladitya/JobCXN.git
 - https://github.com/JoaquinCarlosFeria/Word-Fight
 - https://github.com/kunzn/pixel-chicks/tree/main/src/app
-- https://github.com/mbocsi/audio-extension-frontend.git,https://github.com/AidenCohen31/Cheesehacks.git
+- https://github.com/mbocsi/audio-extension-frontend.git
+- https://github.com/AidenCohen31/Cheesehacks.git
 - https://github.com/meghabyts-wisc/artificially-intelligent
 - https://github.com/mrblacklicorice/CheeseHacks2022
 - https://github.com/novoaj/cheesehacks
